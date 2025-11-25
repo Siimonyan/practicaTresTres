@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+<<<<<<< HEAD
 Disallow: /Bela_Simonyan_Gasparyan/
+=======
+Disallow: /Bela2_Simonyan2_Gasparyan2/
+>>>>>>> c962e75 (Cambiando robots.txt)
